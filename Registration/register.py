@@ -1,7 +1,7 @@
 
 import string
 from tokenize import String
-from filestore import save_data
+from Registration.filestore import save_data
 from send_mail import send_mail
 import hashlib
 
